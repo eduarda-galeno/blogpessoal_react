@@ -22,7 +22,7 @@ function Footer() {
                         Acesse nossas redes sociais
                     </p>
                     <div className='flex gap-2'>
-                        <a href="https://www.linkedin.com/in/liamatsubara/" target='_blank'><LinkedinLogo size={48} weight='regular' /></a>
+                        <a href="https://www.linkedin.com/in/eduardagaleno/" target='_blank'><LinkedinLogo size={48} weight='regular' /></a>
                         
                         <InstagramLogo size={48} weight='regular' />
                         <FacebookLogo size={48} weight='regular' />
